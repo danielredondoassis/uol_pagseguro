@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="loginfail">Either email or password is wrong!</string>
+    <string name="invalidemail">Invalid Email</string>
+
+    <string name="invalid_phone">O telefone informado é inválido.</string>
+    <string name="invalid_email">O Email informado é inválido</string>
+    <string name="invalid_name">Insira um nome de usuário válido</string>
+    <string name="invalid_password">Sua senha deve conter 6 ou mais caracteres.</string>
+    <string name="invalid_password_upper_case">Sua senha deve conter um ou mais caracteres em caixa alta.</string>
+    <string name="invalid_password_lower_case">Sua senha deve conter um ou mais caracteres em caixa baixa.</string>
+    <string name="invalid_password_digits">Sua senha deve conter um ou mais dígitos.</string>
+    <string name="invalid_password_special_characters">Sua senha deve conter um ou mais caracteres especiais.</string>
+    <string name="invalid_password_required">Senha requerida</string>
+    <string name="invalid_login_dialog_title">Atenção</string>
+    <string name="invalid_login_dialog_ok_button">OK</string>
+    <string name="invalid_credentials">Usuário inexistente, verifique suas informações de login.</string>
+
+
+
+</resources>
